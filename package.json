@@ -1,0 +1,8 @@
+{
+  "name": "aws-schedule-expression",
+  "version": "1.0.0",
+  "description": "Generate AWS schedule expression using chaining",
+  "scripts": {
+  },
+  "license": "MIT"
+}
